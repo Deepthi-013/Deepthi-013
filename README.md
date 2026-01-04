@@ -1,7 +1,7 @@
 <img
   src="https://media1.tenor.com/m/BnIPE5qUprgAAAAC/luna-sailor-moon.gif"
   align="right"
-  width="280"
+  width="275"
 />
 
 <br><br><br>
