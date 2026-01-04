@@ -12,7 +12,7 @@
 
 <h3 align="center">Student and aspiring AI/ML developer with experience in ML model development and deployment.</h3>
 
-- 🌱 I’m currently working **AI and Mobile App development**
+- 🌱 I’m currently working on **AI and Mobile App development** projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepthi-013](https://github.com/Deepthi-013)
 
